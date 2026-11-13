@@ -24,3 +24,4 @@ instance/
 .coverage
 htmlcov/
 _create_*.py
+.deploy/
